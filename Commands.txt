@@ -1,0 +1,5 @@
+-v BROWSER:chrome
+-v USUARIO_GLOBAL:markus.silva87
+-v SENHA_GLOBAL:TesterQa123
+-v BASE_URL: http://automationpractice.com/index.php
+-d .\log
